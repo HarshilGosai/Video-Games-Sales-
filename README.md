@@ -1,7 +1,7 @@
 # Video-Games-Sales-
-Using Microsoft PowerBI
+Microsoft PowerBI
 
-Some of the screenshots are given below:
+Screenshots are given below:
 
 ![main](https://user-images.githubusercontent.com/67514119/170979128-fad9a4c2-8255-42df-9087-efc3cc3b9079.png)
 ![sales by year](https://user-images.githubusercontent.com/67514119/170979126-39a0f462-246b-4c10-8013-441377259834.png)
